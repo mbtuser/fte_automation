@@ -1,1 +1,1 @@
-com.ot.automation.tests
+com.ot.automation
